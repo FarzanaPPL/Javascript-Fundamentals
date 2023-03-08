@@ -1,0 +1,29 @@
+.imageUrl{
+    height:70px;
+    border-radius: 8px;
+}
+.profileContainer{
+    display: flex;
+    margin-bottom: 20px;
+    margin-top:20px;
+}
+.detailsContainer{
+    margin-left: 20px;;
+}
+.heading{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+}
+.role{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.crossButton{
+    background-color: transparent;
+    outline: none;
+    border-width: 0px;
+    margin-left: 15px;
+}
+.crossImage{
+    height:15px;
+}

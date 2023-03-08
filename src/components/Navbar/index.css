@@ -1,0 +1,19 @@
+.navContainer{
+    background-color: blanchedalmond;
+    height: 10%;
+    padding-top: 20px;
+}
+.navList{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navItem{
+    width:300px;
+}
+.navLink{
+    text-decoration: none;
+    color:black;
+    font-size: 1.5rem;
+}

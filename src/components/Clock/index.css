@@ -1,0 +1,26 @@
+.clockContainer{
+    background-color: var(--clockBaseColor);
+    height:100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.clockCard{
+    background-color:var(--whiteColor);
+    width:300px;
+    height: 300px;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.clockHeading{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3.0rem;
+}
+.clock{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+}

@@ -1,0 +1,33 @@
+.jokesContainer{
+    background-color: var(--baseColor);
+    height:100vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.jokeImage{
+    height:200px;
+    margin-bottom: 2.0rem;
+}
+.jokeHeading{
+    color: var(--whiteColor);
+    font-family: 'Times New Roman', Times, serif;
+    font-family: 1.0rem;
+    margin-bottom: 2.0rem;
+}
+.jokeButton{
+    background-color: var(--primaryColor);
+    border-width:0px;
+    width:80px;
+    height:30px;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 2.0rem;
+}
+.resultJoke{
+    color:var(--whiteColor);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
